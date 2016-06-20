@@ -1,0 +1,15 @@
+.jimu-widget-maploader{
+  height:30px;
+  width:30px;
+}
+.jimu-widget-maploader .loader{
+  height:30px;
+  width:30px;
+  border-radius:7px;
+  background-color:rgba(72,85,102,0.3)
+}
+
+.jimu-widget-maploader .loader > img{
+  height:30px;
+  width:30px;
+}
